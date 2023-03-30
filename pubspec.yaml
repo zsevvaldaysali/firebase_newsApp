@@ -38,7 +38,14 @@ dependencies:
   #easy_localization: ^3.0.1
   flutter_riverpod: ^2.3.2
   kartal: ^2.8.0
+  equatable: ^2.0.5
+
+  #Firebase
+  cloud_firestore: ^4.4.5
   firebase_core: ^2.8.0
+
+  #Utility
+  animated_text_kit: ^4.2.2
 
 dev_dependencies:
   flutter_test:
